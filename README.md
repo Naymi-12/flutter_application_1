@@ -1,6 +1,6 @@
 # flutter_application
 
-Un proyecto utilizando la plantilla Application (proyecto base de ejemplo).
+Proyecto utilizando la plantilla Application (proyecto base de ejemplo).
 
 ## Getting Started
 
